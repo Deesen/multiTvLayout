@@ -1,0 +1,8 @@
+.formtabpage label.radio,
+.formtabpage:nth-child(2) label:nth-child(3) { display:inline !important; }
+.formtabpage:nth-child(2) label:nth-child(1) { display:block !important; margin-bottom:1em !important; }
+
+#colorbox { overflow:visible !important; }
+.mlc { max-width:263px; list-style: none; }
+.tveditform ul.actionButtons.buttons { position: fixed;top: 12px; margin-left: 448px; background-color: #afbac5;padding: 15px 8px 8px;border-radius: 5px;z-index:99999 }
+.mtvl-sectionheader { font-size:1.5em !important; font-weight:bold; text-decoration: underline; text-align:right; display:block; width:100%; clear:both; }
